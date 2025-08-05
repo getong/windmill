@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.518.3](https://github.com/windmill-labs/windmill/compare/v1.518.2...v1.518.3) (2025-08-05)
+
+
+### Bug Fixes
+
+* **rust-sdk:** revert `openapi-generator-cli` to `7.10.0` ([#6325](https://github.com/windmill-labs/windmill/issues/6325)) ([83aa0d0](https://github.com/windmill-labs/windmill/commit/83aa0d0267fbf2c467c050d21583ddcb49909a8f))
+
 ## [1.518.2](https://github.com/windmill-labs/windmill/compare/v1.518.1...v1.518.2) (2025-08-05)
 
 
